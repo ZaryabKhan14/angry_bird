@@ -1,0 +1,4 @@
+repository "Angry-Birds-Replica-master@zaryabcoc123@cloud"
+  path "/"
+    br "/main"
+    co "/main"
